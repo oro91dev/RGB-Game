@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/oro91dev/RGB-Game/issues"
   },
-  "homepage": "https://github.com/oro91dev/RGB-Game",
+  "homepage": "https://oro91dev.github.io/RGB-Game",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
