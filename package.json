@@ -1,0 +1,20 @@
+{
+  "name": "RGB-Game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "colorGame.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oro91dev/RGB-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://oro91dev.github.io/RGB-Game",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
